@@ -17,4 +17,9 @@ Referências
 Referências
 
 # Unidade 03
+8. Auditoria em T.I: Processos, Técnicas e Metodologias: 8.1. Conceitos de auditoria em T.I. 8.2. Quem realiza a auditoria? 8.3. Modelos para a auditoria. 8.3.1. COBIT - Control Objectives for Information and related Technology. 8.3.2. ITIL - Information Technology Infrastructure Library. 8.3.3. CMMI - Capability Maturity Model Integration. 8.3.4. MPS.br - Melhoria do Processo de Software Brasileiro. 8.3.5. Val IT – Enterprise Value: Governance of IT Investiments. 8.3.6. Risk IT – Enterprise Risk: Identify, Govern and Manage IT Risk. 8.3.7. SCRUM - Metodologia Ágil. 8.3.8. OPM3 - Organizational Project Management Maturity Model. 8.3.9. Seis Sigma / Six Sigma. 8.3.10. BSC - Balanced Scorecard. 8.3.11. Modelos ISO - International Organisation for Standardisation. 8.4. Das técnicas para a realização de auditorias. 8.5. Processos de auditoria de software. 8.5.1. O planejamento [...]. 8.5.2. A execução [...]. 8.5.3. Os relatórios. 8.5.4. Fique atento!
+
+9. 9. Compliance em T.I: Leis Vigentes e Melhores Práticas [...]: 9.1. Introdução. 9.2. As legislações vigentes. 9.2.1. Lei da Propriedade Intelectual (Lei 9.279/1996). 9.2.2. Lei dos Direitos Autorais (Lei 9.609/1998). 9.2.3. Lei do Software (Lei 9.610/1998). 9.2.4. Lei das Provas Eletrônicas (Lei 12.850/2013). 9.2.5. Marco Civil da Internet (Lei 12.965/2014). 9.2.6. Lei do Home Office (Lei 13.467/2017). 9.2.7. Lei Geral de Proteção de Dados Pessoais - LGPD (Lei 13.709/2018).
+
+# Unidade 04
 [...]
